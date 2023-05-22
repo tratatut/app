@@ -1,0 +1,15 @@
+/home/dkysyelyev/Visual Studio projects/UserData/app/bin/Debug/net7.0/app
+/home/dkysyelyev/Visual Studio projects/UserData/app/bin/Debug/net7.0/app.deps.json
+/home/dkysyelyev/Visual Studio projects/UserData/app/bin/Debug/net7.0/app.runtimeconfig.json
+/home/dkysyelyev/Visual Studio projects/UserData/app/bin/Debug/net7.0/app.dll
+/home/dkysyelyev/Visual Studio projects/UserData/app/bin/Debug/net7.0/app.pdb
+/home/dkysyelyev/Visual Studio projects/UserData/app/obj/Debug/net7.0/app.csproj.AssemblyReference.cache
+/home/dkysyelyev/Visual Studio projects/UserData/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/dkysyelyev/Visual Studio projects/UserData/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/home/dkysyelyev/Visual Studio projects/UserData/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/home/dkysyelyev/Visual Studio projects/UserData/app/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/home/dkysyelyev/Visual Studio projects/UserData/app/obj/Debug/net7.0/app.dll
+/home/dkysyelyev/Visual Studio projects/UserData/app/obj/Debug/net7.0/refint/app.dll
+/home/dkysyelyev/Visual Studio projects/UserData/app/obj/Debug/net7.0/app.pdb
+/home/dkysyelyev/Visual Studio projects/UserData/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/home/dkysyelyev/Visual Studio projects/UserData/app/obj/Debug/net7.0/ref/app.dll
