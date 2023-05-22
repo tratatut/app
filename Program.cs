@@ -52,7 +52,8 @@ namespace DataProcessingApp
 
             if (todayMonth == monthInt & todayDay == dayInt)
             {
-                Console.WriteLine($"Congratulation, today is your {CalculateCompletedYears(dateOfBirth)} Birthday!");
+                Console.WriteLine($"Congratulation, today is your {CalculateCompletedYears(dateOfBirth)} birthday!");
+                return;
             }
         }
 
