@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using System.Text.RegularExpressions;
 
 namespace DataProcessingApp
 {
@@ -15,9 +16,10 @@ namespace DataProcessingApp
                 Console.WriteLine("Invalid input. The initial string cannot be empty or more than 40 characters.");
                 return;
             }
+            string delimiters = @"[,#-.(\s)+/\s]";
 
-            string[] parts = input.Split(new[] { '.', ',', '#', '/', '-' }, StringSplitOptions.TrimEntries);
-            
+            string[] parts = Regex.Split(input, delimiters);
+
             if (parts.Length != 5)
             {
                 Console.WriteLine("Invalid input format. Format should be like: FirstName.LastName.Day/Month/Year (separators: .,#/- )");
